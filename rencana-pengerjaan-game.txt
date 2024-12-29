@@ -1,3 +1,5 @@
 Rencana Pengerjaan Game
 - membuat konsep permainan
 - perencanaan pengerjaan
+  ~ Menggunakan Bahasa C++
+- melakukan penjadwalan pengerjaan
