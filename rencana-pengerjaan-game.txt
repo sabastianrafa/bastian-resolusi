@@ -4,6 +4,9 @@ Rencana Pengerjaan Game
   ~ Genre: RPG Petualangan dengan Unsur Puzzle dan Manajemen Waktu
   ~ Platform: PC
   ~ Fitur PErmainan
+    > Manajemen Waktu
+    > Sistem Crafting Era-Sensitif
+    > Puzzle Temporal
     > Kustomisasi Karakter
     > Pilihan yang Mengubah Alur Cerita
 - perencanaan pengerjaan
