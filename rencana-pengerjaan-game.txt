@@ -3,6 +3,9 @@ Rencana Pengerjaan Game
   ~ Judul Permainan: "Chrono Crafter"
   ~ Genre: RPG Petualangan dengan Unsur Puzzle dan Manajemen Waktu
   ~ Platform: PC
+  ~ Fitur PErmainan
+    > Kustomisasi Karakter
+    > Pilihan yang Mengubah Alur Cerita
 - perencanaan pengerjaan
   ~ Menggunakan Bahasa C++
 - melakukan penjadwalan pengerjaan
