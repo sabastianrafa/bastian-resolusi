@@ -5,6 +5,7 @@ Rencana Pengerjaan Game
   ~ Platform: PC, Android
   ~ Fitur PErmainan
     > Manajemen Waktu
+    > Sistem Crafting Era-Sensitif
     > Puzzle Temporal
 - perencanaan pengerjaan
   ~ Menggunakan Bahasa C++
